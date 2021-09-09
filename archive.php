@@ -53,13 +53,13 @@
 						<div class="crumbs">
 							<ul>
 								<li><a href="index.php">Главная</a></li>
-								<li><a href="archive.php">Блог</a></li>
+								<li><a href="archive.php">Купальники</a></li>
 							</ul>
 						</div>
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<img src="images/11.jpg"/>
+									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/1video.webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -73,7 +73,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<img src="images/12.jpg"/>
+									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/2video.webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -87,7 +87,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<img src="images/13.jpg"/>
+									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/3video.webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
