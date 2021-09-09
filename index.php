@@ -55,7 +55,7 @@
 					<div class="row">
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/2img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/2img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -71,7 +71,7 @@
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/3img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/3img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -87,7 +87,7 @@
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/5img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/5img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -105,7 +105,7 @@
 					<div class="row">
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/7img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/7img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -121,7 +121,7 @@
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/9img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/9img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -137,7 +137,7 @@
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/11img.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/11img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
