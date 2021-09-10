@@ -174,7 +174,7 @@ ul.quick-link li{margin-top: 30px;}
 
 #ff textarea {display:block;width:100%;height:200px; border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;background-color:#fff; color:#000;	border:1px solid #717171;padding:10px;margin: 5px 0 25px 0;background: transparent;}
 
-#ff .sendButton {cursor:pointer;background-color:#717171;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;;width:35%;color:#ffffff;}
+#ff .sendButton {cursor:pointer;background-color:#717171;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;;width:55%;color:#ffffff;}
 #ff .sendButton:hover {opacity: 0.8;}
 
 
