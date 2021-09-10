@@ -113,6 +113,9 @@ header .logo{margin-bottom: 100px;}
 .content-box.box-gallery .zoom-container{margin: 0;}
 .content-box.box-gallery .item img{display: block;width: 100% !important;}
 .content-box.box-gallery .item {max-width: 400px;margin: auto;padding: 0;}
+@media (min-width: 768px) {
+	.content-box.box-gallery .item .img_swim_sport {width: 90%; height: auto;}
+}
 .content-box .yellow_accent {color: #fff200;}
 
 
@@ -128,6 +131,7 @@ article .art-content{ padding: 40px 60px 30px 60px;}/*----*/
 article .art-content blockquote {border-left: 3px solid #1c7791;font-size: 18px;margin: 0 50px;font-style: italic;color: #666;padding-left: 20px;}
 article .art-content ol {float: left;text-align: justify;margin: 10px 50px;font-size: 16px;list-style-type: circle; color: #eee;}
 article .art-content .block_info {display: flex; justify-content: space-between; align-items: center;}
+article .art-content .block_info .block_icons {width: 45%; display: flex; justify-content: space-around;}
 @media (max-width: 961px) {
 	article .art-content .block_info {
 		flex-direction: column;

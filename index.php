@@ -55,7 +55,7 @@
 					<div class="row">
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/2img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/2.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -64,14 +64,14 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/1img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/1.PNG" alt=""/>
 									</div>
 								</a>
 							</div>
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/3img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/3.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -80,14 +80,14 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/4img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/4.PNG" alt=""/>
 									</div>
 								</a>
 							</div>
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/5img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/5.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -96,7 +96,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/6img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/6.PNG" alt=""/>
 									</div>
 								</a>
 							</div>
@@ -105,7 +105,7 @@
 					<div class="row">
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/7img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/7.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -114,14 +114,14 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/8img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/8.PNG" alt=""/>
 									</div>
 								</a>
 							</div>
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/9img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/9.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -130,14 +130,14 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/10img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/10.PNG" alt=""/>
 									</div>
 								</a>
 							</div>
 						</div>
 						<div class="col-1-3">
 							<div class="wrap-col">
-								<a class="example-image-link" href="images/swimsuit/11img.PNG" data-lightbox="example-set" data-title="Кликните вправо, чтобы увидеть больше фотографий.">
+								<a class="example-image-link" href="images/swimsuit/11.PNG" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -146,7 +146,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/swimsuit/12img.PNG" alt=""/>
+										<img class="example-image" src="images/swimsuit/12.PNG" alt=""/>
 									</div>
 								</a>
 							</div>

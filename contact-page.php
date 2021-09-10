@@ -76,9 +76,11 @@
 										<p>Мы находимся г. Самара тк "Мой Кировский Вещевой Рынок" ряд 4, место 943<br></p>
 									 	<div class="block_info">
 											<span class="phone"><a href="tel:+7(927)263-13-10"> +7 (927) 263-13-10</a></span>
-	 										<a href="https://ok.ru/profile/556104770132" target="https://ok.ru/profile/556104770132"><i class="fa fa-search"></i></a>
-	 										<a href="https://vk.com/id320255311" target="https://vk.com/id320255311"><i class="fa fa-vk"></i></a>
-											<a href="https://www.instagram.com/nikonomarin/" target="https://www.instagram.com/nikonomarin/"><i class="fa fa-instagram"></i></a>
+	 										<div class="block_icons">
+												<a href="https://ok.ru/profile/556104770132" target="https://ok.ru/profile/556104770132"><i class="fa fa-search"></i></a>
+		 										<a href="https://vk.com/id320255311" target="https://vk.com/id320255311"><i class="fa fa-vk"></i></a>
+												<a href="https://www.instagram.com/nikonomarin/" target="https://www.instagram.com/nikonomarin/"><i class="fa fa-instagram"></i></a>
+	 										</div>
 									 	</div>
 									</div>
 								</div>

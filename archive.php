@@ -8,7 +8,7 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Блог, место где вам расскажут о купальниках, их качестве и производителе</title>
+	<title>Каталог купальников на любой вкус и предпочтение потребителя</title>
 	<meta name="description" content="">
 	<meta name="author" content="https://vk.com/codermind">
 
@@ -24,6 +24,8 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <script src="js/jquery1111.min.js" type="text/javascript"></script>
+	<!-- lazy load js -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>
@@ -59,7 +61,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/1video.webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/1.jpg" src="video/1.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -73,7 +75,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/2video.webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/2.jpg" src="video/2.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -87,7 +89,175 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" src="video/3video.webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/3.jpg" src="video/3.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/4.jpg" src="video/4.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/5.jpg" src="video/5.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/6.jpg" src="video/6.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/7.jpg" src="video/7.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/8.jpg" src="video/8.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/9.jpg" src="video/9.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/10.jpg" src="video/10.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/11.jpg" src="video/11.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/12.jpg" src="video/12.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/13.jpg" src="video/13.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2 f-right ">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/14.jpg" src="video/14.webm" type="video/webm"></video>
+								</div>
+							</div>
+							<div class="col-1-2">
+								<div class="art-content t-center">
+									<h3>The title on the article</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus.consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia.</p>
+									<a class="button" href="single.html">Read More</a>
+								</div>
+							</div>
+						</article>
+						<article>
+							<div class="col-1-2">
+								<div class="art-header">
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/15.jpg" src="video/13.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">

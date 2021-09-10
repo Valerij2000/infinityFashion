@@ -61,7 +61,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col ">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/1.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/1.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -83,7 +83,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/3.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/3.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -105,7 +105,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/5.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/5.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -129,7 +129,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col ">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/7.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/7.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -151,7 +151,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/9.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/9.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -173,7 +173,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/11.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/11.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -197,7 +197,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col ">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/13.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/13.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -219,7 +219,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/15.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/15.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">
@@ -241,7 +241,7 @@
 					<div class="col-1-3">
 						<div class="wrap-col">
 							<div class="item">
-								<a class="example-image-link" href="images/kartigans/17.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+								<a class="example-image-link" href="images/kartigans/17.jpg" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
 									<div class="zoom-container">
 										<div class="zoom-caption">
 											<div class="caption-inner">

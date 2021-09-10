@@ -15,7 +15,7 @@
 		<div class="zerogrid">
 			<div class="row">
 				<div class="copy-right">
-					<p>m~InfinityFashion - dev by <a href="https://vk.com/codermind">Valerij Shumkov</a></p>
+					<p>m~InfinityFashion - by <a href="https://www.instagram.com/nikonomarin">Marina Nikonova</a></p>
 				</div>
 			</div>
 		</div>
