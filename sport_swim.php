@@ -78,7 +78,6 @@
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
                   <img src="images/catalog/sport_swim/4.png" alt="">
                   <img src="images/catalog/sport_swim/5.png" alt="">
-                  <img src="images/catalog/sport_swim/6.png" alt="">
                 </div>
               </div>
             </div>
@@ -88,7 +87,6 @@
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
                   <img src="images/catalog/sport_swim/8.png" alt="">
-                  <img src="images/catalog/sport_swim/7.png" alt="">
                   <img src="images/catalog/sport_swim/9.png" alt="">
                 </div>
               </div>
@@ -102,7 +100,6 @@
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
                   <img src="images/catalog/sport_swim/10.png" alt="">
                   <img src="images/catalog/sport_swim/11.png" alt="">
-                  <img src="images/catalog/sport_swim/12.png" alt="">
                 </div>
 							</div>
 						</div>
@@ -111,9 +108,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/4.png" alt="">
-                  <img src="images/catalog/sport_swim/5.png" alt="">
-                  <img src="images/catalog/sport_swim/6.png" alt="">
+                  <img src="images/catalog/sport_swim/13.png" alt="">
+                  <img src="images/catalog/sport_swim/14.png" alt="">
                 </div>
               </div>
             </div>
@@ -122,9 +118,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/8.png" alt="">
-                  <img src="images/catalog/sport_swim/7.png" alt="">
-                  <img src="images/catalog/sport_swim/9.png" alt="">
+                  <img src="images/catalog/sport_swim/15.png" alt="">
+                  <img src="images/catalog/sport_swim/16.png" alt="">
                 </div>
               </div>
             </div>
