@@ -22,6 +22,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+		 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
     <script src="js/jquery1111.min.js" type="text/javascript"></script>
 	<!-- lazy load js -->
