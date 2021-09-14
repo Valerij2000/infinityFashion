@@ -25,8 +25,9 @@
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
-
 	<script src="js/jquery1111.min.js" type="text/javascript"></script>
+	<!-- button-to-top -->
+	<script type="text/javascript" src="js/buttonToTop.js"></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>
@@ -49,6 +50,9 @@
 <? require 'header.php' ?>
 
 <section id="container">
+	<div id="button-up">
+		<i class="fa fa-chevron-up"></i>
+	</div>
 	<div class="wrap-container">
 		<div class="crumbs zerogrid">
 			<ul>
@@ -75,8 +79,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -97,8 +101,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -119,8 +123,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -143,8 +147,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -165,8 +169,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>Пальто</a>
+									<p>Производство Россия, в составе ткани - шерсть.</p>
 								</div>
 							</div>
 						</div>
@@ -187,8 +191,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -211,8 +215,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -233,8 +237,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>
@@ -255,8 +259,8 @@
 									</div>
 								</a>
 								<div class="item-content">
-									<a href="#">BASIC FURNITURE</a>
-									<p>This format perfectly fits in case you need only a single image for your post display. Use Featured image option…</p>
+									<a>BONADI</a>
+									<p>Производство Беларусь, в составе ткани - шерсть. </p>
 								</div>
 							</div>
 						</div>

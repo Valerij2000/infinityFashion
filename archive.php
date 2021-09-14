@@ -27,6 +27,9 @@
     <script src="js/jquery1111.min.js" type="text/javascript"></script>
 	<!-- lazy load js -->
 	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+	<script type="text/javascript" src="js/lazyLoad.js" defer>
+
+	</script>
 	<!-- button-to-top -->
 	<script type="text/javascript" src="js/buttonToTop.js"></script>
 	<script src="js/script.js"></script>
@@ -273,15 +276,6 @@
 
 <script type="text/javascript">
     $(function() {
-		if ($.browser.msie && $.browser.version.substr(0,1)<7)
-		{
-		$('li').has('ul').mouseover(function(){
-			$(this).children('ul').css('visibility','visible');
-			}).mouseout(function(){
-			$(this).children('ul').css('visibility','hidden');
-			})
-		}
-
 		/* Mobile */
 		$("#menu-trigger").on("click", function(){
 			$("#menu").slideToggle();
