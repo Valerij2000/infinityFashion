@@ -70,7 +70,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/1.jpg" src="video/1.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/5.png" src="video/1.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -84,7 +84,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/2.jpg" src="video/2.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/2.png" src="video/2.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -98,7 +98,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/3.jpg" src="video/3.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/51.png" src="video/3.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -112,7 +112,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/4.jpg" src="video/4.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/31.png" src="video/4.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -126,7 +126,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/5.jpg" src="video/5.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/3.png" src="video/5.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -140,7 +140,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/6.jpg" src="video/6.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/47.png" src="video/6.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -154,7 +154,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/7.jpg" src="video/7.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/49.png" src="video/7.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -168,7 +168,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/8.jpg" src="video/8.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/5.png" src="video/8.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -182,7 +182,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/9.jpg" src="video/9.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/6.png" src="video/9.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -196,7 +196,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/10.jpg" src="video/10.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/4.png" src="video/10.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -210,7 +210,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/11.jpg" src="video/11.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/53.png" src="video/11.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -224,7 +224,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/12.jpg" src="video/12.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/1.png" src="video/12.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -238,7 +238,7 @@
 						<article>
 							<div class="col-1-2">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/13.jpg" src="video/13.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/swimsuit/35.png" src="video/13.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
@@ -252,7 +252,7 @@
 						<article>
 							<div class="col-1-2 f-right ">
 								<div class="art-header">
-									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/14.jpg" src="video/14.webm" type="video/webm"></video>
+									<video class="lozad" width="100%" height="500px" autoplay="autoplay" loop="loop" muted="muted" poster="images/lazyposts/1.png" src="video/14.webm" type="video/webm"></video>
 								</div>
 							</div>
 							<div class="col-1-2">
