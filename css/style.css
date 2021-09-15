@@ -64,7 +64,6 @@ body {background: #313B45;}
 body .wrap-body{
 	overflow: hidden;
 }
-
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Header--------------------------------- */
 /* ---------------------------------------------------------------------------- */
@@ -159,9 +158,11 @@ header .logo{margin-bottom: 100px;}
 .content-box.box-gallery .zoom-container{margin: 0;}
 .content-box.box-gallery .item img{display: block;width: 100% !important;}
 .content-box.box-gallery .item {max-width: 400px;margin: auto;padding: 0;}
-@media (min-width: 768px) {
-	.content-box.box-gallery .item .img_swim_sport {width: 90%; height: auto;}
+.content-box.box-gallery .item .img_swim_sport {width: 90%; height: auto;}
+@media (max-width: 768px) {
+	.content-box.box-gallery .item .img_swim_sport {width: 100%; display: flex; justify-content: center;}
 }
+
 .wrap-main-cards {
 	width: 100%;
   display: flex;
