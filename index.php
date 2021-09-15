@@ -777,6 +777,8 @@
 		$('.sendButton').on('click', () => {
 			localStorage['myKey'] = $('#message').val();
 		})
+	} else {
+		$('#hb').css('display', 'none');
 	}
 </script>
 <!-- Happy Birdthay End -->
