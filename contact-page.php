@@ -9,7 +9,7 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>Контакты, информация фирмы m~InfinityFashion</title>
-	<meta name="description" content="Free Responsive Html5 Css3 Templates | zerotheme.com">
+	<meta name="description" content="Контактная форма для связи с магазином женской одежды">
 	<meta name="author" content="https://vk.com/codermind">
 
     <!-- Mobile Specific Metas
@@ -134,43 +134,18 @@
 <? require 'footer.php' ?>
 
 <script type="text/javascript">
-
-		$(function(){
+    $(function() {
 		//2. Получить элемент, к которому необходимо добавить маску
 		$("#subject").mask("8(999) 999-99-99");
-		});
-
-    $(function() {
-		if ($.browser.msie && $.browser.version.substr(0,1)<7)
-		{
-		$('li').has('ul').mouseover(function(){
-			$(this).children('ul').css('visibility','visible');
-			}).mouseout(function(){
-			$(this).children('ul').css('visibility','hidden');
-			})
-		}
-
 		/* Mobile */
 		$("#menu-trigger").on("click", function(){
 			$("#menu").slideToggle();
 		});
-
 		// iPad
 		var isiPad = navigator.userAgent.match(/iPad/i) != null;
 		if (isiPad) $('#menu ul').addClass('no-transition');
     });
 </script>
-<!-- Google Map -->
-	<script>
-		$('.maps').click(function () {
-		$('.maps iframe').css("pointer-events", "auto");
-	});
-
-	$( ".maps" ).mouseleave(function() {
-	  $('.maps iframe').css("pointer-events", "none");
-	});
-	</script>
-
-
 </div>
-</body></html>
+</body>
+</html>
