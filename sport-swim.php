@@ -18,7 +18,7 @@
 
     <!-- CSS
   ================================================== -->
-  	<link rel="stylesheet" href="css/zerogrid.css">
+	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -54,7 +54,7 @@
 		<div class="crumbs zerogrid">
 			<ul>
 				<li><a href="index.php">Главная</a></li>
-				<li><a href="sport_swim.php">Спортивные купальники</a></li>
+				<li><a href="sport-swim.php">Спортивные купальники</a></li>
 			</ul>
 		</div>
 		<section class="content-box box-gallery"><!--Start Box-->
@@ -64,9 +64,9 @@
 						<div class="wrap-col">
 							<div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/1.png" alt="">
-                  <img src="images/sport_swim/2.png" alt="">
-                  <img src="images/sport_swim/3.png" alt="">
+                  <img src="images/sportSwim/1.png" alt="">
+                  <img src="images/sportSwim/2.png" alt="">
+                  <img src="images/sportSwim/3.png" alt="">
                 </div>
 							</div>
 						</div>
@@ -75,8 +75,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/4.png" alt="">
-                  <img src="images/sport_swim/5.png" alt="">
+                  <img src="images/sportSwim/4.png" alt="">
+                  <img src="images/sportSwim/5.png" alt="">
                 </div>
               </div>
             </div>
@@ -85,8 +85,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/8.png" alt="">
-                  <img src="images/sport_swim/9.png" alt="">
+                  <img src="images/sportSwim/8.png" alt="">
+                  <img src="images/sportSwim/9.png" alt="">
                 </div>
               </div>
             </div>
@@ -97,8 +97,8 @@
 						<div class="wrap-col">
 							<div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/10.png" alt="">
-                  <img src="images/sport_swim/11.png" alt="">
+                  <img src="images/sportSwim/10.png" alt="">
+                  <img src="images/sportSwim/11.png" alt="">
                 </div>
 							</div>
 						</div>
@@ -107,8 +107,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/13.png" alt="">
-                  <img src="images/sport_swim/14.png" alt="">
+                  <img src="images/sportSwim/13.png" alt="">
+                  <img src="images/sportSwim/14.png" alt="">
                 </div>
               </div>
             </div>
@@ -117,8 +117,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/sport_swim/15.png" alt="">
-                  <img src="images/sport_swim/16.png" alt="">
+                  <img src="images/sportSwim/15.png" alt="">
+                  <img src="images/sportSwim/16.png" alt="">
                 </div>
               </div>
             </div>

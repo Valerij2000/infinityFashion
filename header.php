@@ -9,7 +9,7 @@
 				   <li><a href='kartigans.php'><span>картиганы</span></a></li>
 					 <li class=' has-sub'><a><span>каталог</span></a>
 					  <ul>
-							<li class='has-sub'><a href='sport_swim.php'><span>Спортивные купальники	</span></a></li>
+							<li class='has-sub'><a href='sport-swim.php'><span>Спортивные купальники	</span></a></li>
 						 	<li class='has-sub'><a href='#'><span>Плавки</span></a>
 								<ul>
 							   	<li><a href='#'><span>Резиновые шапки</span></a></li>
