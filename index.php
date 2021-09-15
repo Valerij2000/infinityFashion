@@ -66,6 +66,7 @@
 			<div class="zerogrid">
 				<div class="">
 					<div class="row">
+						<h1 class="main-title">Коллекция <span class="logo_firm">Dea Fiori</span> 2022 года</h1>
 						<div class="col-1-3">
 							<div class="wrap-col wrap-main-cards">
 								<div class="block_description">
