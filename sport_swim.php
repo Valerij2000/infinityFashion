@@ -21,7 +21,6 @@
   	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
-	<link rel="stylesheet" href="css/lightbox.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
  	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
@@ -65,9 +64,9 @@
 						<div class="wrap-col">
 							<div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/1.png" alt="">
-                  <img src="images/catalog/sport_swim/2.png" alt="">
-                  <img src="images/catalog/sport_swim/3.png" alt="">
+                  <img src="images/sport_swim/1.png" alt="">
+                  <img src="images/sport_swim/2.png" alt="">
+                  <img src="images/sport_swim/3.png" alt="">
                 </div>
 							</div>
 						</div>
@@ -76,8 +75,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/4.png" alt="">
-                  <img src="images/catalog/sport_swim/5.png" alt="">
+                  <img src="images/sport_swim/4.png" alt="">
+                  <img src="images/sport_swim/5.png" alt="">
                 </div>
               </div>
             </div>
@@ -86,8 +85,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/8.png" alt="">
-                  <img src="images/catalog/sport_swim/9.png" alt="">
+                  <img src="images/sport_swim/8.png" alt="">
+                  <img src="images/sport_swim/9.png" alt="">
                 </div>
               </div>
             </div>
@@ -98,8 +97,8 @@
 						<div class="wrap-col">
 							<div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/10.png" alt="">
-                  <img src="images/catalog/sport_swim/11.png" alt="">
+                  <img src="images/sport_swim/10.png" alt="">
+                  <img src="images/sport_swim/11.png" alt="">
                 </div>
 							</div>
 						</div>
@@ -108,8 +107,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/13.png" alt="">
-                  <img src="images/catalog/sport_swim/14.png" alt="">
+                  <img src="images/sport_swim/13.png" alt="">
+                  <img src="images/sport_swim/14.png" alt="">
                 </div>
               </div>
             </div>
@@ -118,8 +117,8 @@
             <div class="wrap-col">
               <div class="item">
                 <div class="fotorama img_swim_sport" data-nav="thumbs">
-                  <img src="images/catalog/sport_swim/15.png" alt="">
-                  <img src="images/catalog/sport_swim/16.png" alt="">
+                  <img src="images/sport_swim/15.png" alt="">
+                  <img src="images/sport_swim/16.png" alt="">
                 </div>
               </div>
             </div>
@@ -132,30 +131,16 @@
 </section>
 <? require 'footer.php' ?>
 
-<script src="js/lightbox-plus-jquery.min.js"></script>
-
 <script type="text/javascript">
     $(function() {
-		if ($.browser.msie && $.browser.version.substr(0,1)<7)
-		{
-		$('li').has('ul').mouseover(function(){
-			$(this).children('ul').css('visibility','visible');
-			}).mouseout(function(){
-			$(this).children('ul').css('visibility','hidden');
-			})
-		}
-
 		/* Mobile */
 		$("#menu-trigger").on("click", function(){
 			$("#menu").slideToggle();
 		});
-
 		// iPad
 		var isiPad = navigator.userAgent.match(/iPad/i) != null;
 		if (isiPad) $('#menu ul').addClass('no-transition');
     });
 </script>
-
-
 </div>
 </body></html>
