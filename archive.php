@@ -31,7 +31,7 @@
 	<!-- button-to-top -->
 	<script type="text/javascript" src="js/buttonToTop.js"></script>
 	<!-- Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ6S05FQY5"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZHSFKE4LV"></script>
 	<script type="text/javascript" src="js/googleAnalytics.js" defer></script>
 	<script src="js/script.js"></script>
 
