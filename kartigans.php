@@ -18,16 +18,19 @@
 
     <!-- CSS
   ================================================== -->
-  	<link rel="stylesheet" href="css/zerogrid.css">
+	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/lightbox.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+ 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
 	<script src="js/jquery1111.min.js" type="text/javascript"></script>
 	<!-- button-to-top -->
 	<script type="text/javascript" src="js/buttonToTop.js"></script>
+	<!-- lazy load js -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+	<script type="text/javascript" src="js/lazyLoad.js" defer></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>
@@ -75,7 +78,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/2.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/2.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -97,7 +100,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/4.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/4.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -119,7 +122,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/6.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/6.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -143,7 +146,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/8.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/8.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -165,7 +168,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/10.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/10.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -187,7 +190,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/12.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/12.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -211,7 +214,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/14.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/14.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -233,7 +236,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/16.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/16.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -255,7 +258,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/kartigans/18.jpg" alt=""/>
+										<img class="example-image lozad" src="images/kartigans/18.jpg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">

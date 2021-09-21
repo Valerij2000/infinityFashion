@@ -17,16 +17,19 @@
 
     <!-- CSS
   ================================================== -->
-  	<link rel="stylesheet" href="css/zerogrid.css">
+	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/lightbox.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+ 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
 	<script src="js/jquery1111.min.js" type="text/javascript"></script>
 	<!-- button-to-top -->
 	<script type="text/javascript" src="js/buttonToTop.js"></script>
+	<!-- lazy load js -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+	<script type="text/javascript" src="js/lazyLoad.js" defer></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>
@@ -74,7 +77,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/1.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/1.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -96,7 +99,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/2.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/2.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -118,7 +121,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/3.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/3.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -142,7 +145,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/4.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/4.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -164,7 +167,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/5.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/5.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -186,7 +189,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/6.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/6.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -210,7 +213,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/7.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/7.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -232,7 +235,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/8.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/8.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -254,7 +257,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/9.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/9.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -278,7 +281,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/10.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/10.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -300,7 +303,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/11.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/11.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
@@ -322,7 +325,7 @@
 												</div>
 											</div>
 										</div>
-										<img class="example-image" src="images/downJackets/12.jpeg" alt=""/>
+										<img class="example-image lozad" src="images/downJackets/12.jpeg" alt=""/>
 									</div>
 								</a>
 								<div class="item-content">
