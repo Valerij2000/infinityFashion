@@ -31,6 +31,9 @@
 	<!-- lazy load js -->
 	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
 	<script type="text/javascript" src="js/lazyLoad.js" defer></script>
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ6S05FQY5"></script>
+	<script type="text/javascript" src="js/googleAnalytics.js" defer></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>

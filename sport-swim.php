@@ -28,6 +28,9 @@
   <!-- Fotorama from CDNJS, 19 KB -->
   <link  href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ6S05FQY5"></script>
+	<script type="text/javascript" src="js/googleAnalytics.js" defer></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>

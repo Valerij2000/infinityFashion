@@ -18,16 +18,17 @@
 
     <!-- CSS
   ================================================== -->
-  	<link rel="stylesheet" href="css/zerogrid.css">
+	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/menu.css">
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-		 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+ 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 
-    <script src="js/jquery1111.min.js" type="text/javascript"></script>
-		<script type="text/javascript" src="js/jquery.maskedinput.min.js">
-
-		</script>
+  <script src="js/jquery1111.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/jquery.maskedinput.min.js"></script>
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ6S05FQY5"></script>
+	<script type="text/javascript" src="js/googleAnalytics.js" defer></script>
 	<script src="js/script.js"></script>
 
 	<!--[if lt IE 8]>
