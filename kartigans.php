@@ -9,8 +9,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>Галлерея женской одежды и женских купальников</title>
-	<meta name="description" content="">
-	<meta name="author" content="https://vk.com/codermind">
+	<meta name="description" content="Женские картиганы ткань - 30%, пан - 70% (пряжа производство Польши). Картиганы в городе Самара.">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
 
     <!-- Mobile Specific Metas
   ================================================== -->

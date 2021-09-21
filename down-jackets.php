@@ -8,10 +8,9 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Галлерея женской одежды и женских купальников</title>
-	<meta name="description" content="">
-	<meta name="author" content="https://vk.com/codermind">
-
+	<title>Женские пуховиков, коллекция 2021 в Самаре, большой выбор женской одежды</title>
+	<meta name="description" content="Пуховики женские на любой вкус и размер. Скидки до 30%, цены от 2 700р, скидки посетителям сайта. Пуховики высокого качества, производитель - Россия, Польша, Беларусь.">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
     <!-- Mobile Specific Metas
   ================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

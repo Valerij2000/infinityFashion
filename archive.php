@@ -10,7 +10,7 @@
 	<meta charset="utf-8">
 	<title>Каталог купальников на любой вкус и предпочтение потребителя</title>
 	<meta name="description" content="Купальники на любой вкус и кашел потребителя. Широкий ассортимент товаров в нашем каталоге купальников, производитель Польша.">
-	<meta name="author" content="https://vk.com/codermind">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
 
     <!-- Mobile Specific Metas
   ================================================== -->

@@ -9,8 +9,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>Контакты, информация фирмы m~InfinityFashion</title>
-	<meta name="description" content="Контактная форма для связи с магазином женской одежды">
-	<meta name="author" content="https://vk.com/codermind">
+	<meta name="description" content="Контактная форма для связи с магазином женской одежды InfinityFashion">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
 
     <!-- Mobile Specific Metas
   ================================================== -->

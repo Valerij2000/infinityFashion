@@ -9,8 +9,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title>Галлерея женской одежды и спортивных женских купальников</title>
-	<meta name="description" content="">
-	<meta name="author" content="https://vk.com/codermind">
+	<meta name="description" content="В каталоге sport collection все купальные костюмы выполнены из лучших итальянских материалов, устойчивых к действию активного хлора и обеспечивающих защиту от УФ лучей, используемые в них металлические элементы выполнены с покрытием не содержащих никель.">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
 
     <!-- Mobile Specific Metas
   ================================================== -->

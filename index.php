@@ -10,7 +10,7 @@
 	<meta charset="utf-8">
 	<title>m~InfinityFashion - Магазин купальников и женской одежды</title>
 	<meta name="description" content="m~InfinityFashion - место, где вы можете приобрести женскую одежду отечественных и зарубежных производителей, польские купальники на любую фигуру и на любой вкус. Будем рады видеть вас в нашем магазине модной одежды!">
-	<meta name="author" content="https://vk.com/codermind">
+	<meta name="author" content="https://www.instagram.com/nikonomarin">
 
     <!-- Mobile Specific Metas
   ================================================== -->
