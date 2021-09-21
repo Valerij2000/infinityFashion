@@ -1,16 +1,1 @@
-$(document).ready(function() {
-  var button = $('#button-up');
-  $(window).scroll (function () {
-    if ($(this).scrollTop () > 300) {
-      button.fadeIn();
-    } else {
-      button.fadeOut();
-    }
-});
-button.on('click', function(){
-$('body, html').animate({
-scrollTop: 0
-}, 800);
-return false;
-});
-});
+$(document).ready(function(){var n=$("#button-up");$(window).scroll(function(){$(this).scrollTop()>300?n.fadeIn():n.fadeOut()}),n.on("click",function(){return $("body, html").animate({scrollTop:0},800),!1})})

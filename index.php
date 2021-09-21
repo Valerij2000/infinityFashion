@@ -1,64 +1,20 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
-
-    <!-- Basic Page Needs
-  ================================================== -->
 	<meta charset="utf-8">
 	<title>m~InfinityFashion - Магазин купальников и женской одежды</title>
 	<meta name="description" content="m~InfinityFashion - место, где вы можете приобрести женскую одежду отечественных и зарубежных производителей, польские купальники на любую фигуру и на любой вкус. Будем рады видеть вас в нашем магазине модной одежды!">
 	<meta name="author" content="https://www.instagram.com/nikonomarin">
-
-    <!-- Mobile Specific Metas
-  ================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <!-- CSS
-  ================================================== -->
 	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/lightbox.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
  	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-
-	<script src="js/jquery1111.min.js" type="text/javascript"></script>
-	<!-- Fotorama from CDNJS, 19 KB -->
 	<link  href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
-	<!-- jQuery Modal -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-	<!-- button-to-top -->
-	<script type="text/javascript" src="js/buttonToTop.js"></script>
-	<!-- laod more -->
-	<script type="text/javascript" src="js/loadMore.js"></script>
-	<!-- Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZHSFKE4LV"></script>
-	<script type="text/javascript" src="js/googleAnalytics.js" defer></script>
-
-	<script src="js/script.js"></script>
-
-	<!--[if lt IE 8]>
-       <div style=' clear: both; text-align:center; position: relative;'>
-         <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
-           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
-        </a>
-      </div>
-    <![endif]-->
-    <!--[if lt IE 9]>
-		<script src="js/html5.js"></script>
-		<script src="js/css3-mediaqueries.js"></script>
-	<![endif]-->
-
 </head>
 <body>
 <div class="wrap-body">
-
-<!--////////////////////////////////////Header-->
 <? require 'header.php' ?>
 <section id="container">
 	<div id="button-up">
@@ -738,4 +694,19 @@
 </section>
 <? require 'footer.php' ?>
 </div>
+<script src="js/jquery1111.min.js" type="text/javascript"></script>
+<!-- Fotorama from CDNJS, 19 KB -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+<!-- button-to-top -->
+<script type="text/javascript" src="js/buttonToTop.js"></script>
+<!-- laod more -->
+<script type="text/javascript" src="js/loadMore.js"></script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZHSFKE4LV"></script>
+<script type="text/javascript" src="js/googleAnalytics.js"></script>
+<!-- Users Scripts -->
+<script src="js/script.js"></script>
 </body></html>
