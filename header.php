@@ -18,7 +18,7 @@
 								</ul>
 						 	</li>
 						 <li class='has-sub'><a href='#'><span>Куртки</span></a></li>
-						 <li class='has-sub'><a href='#'><span>Пуховики	</span></a></li>
+						 <li class='has-sub'><a href='down-jackets.php'><span>Пуховики	</span></a></li>
 					  </ul>
 				   </li>
 				   <li class='last'><a href='contact-page.php'><span>контакты</span></a></li>
