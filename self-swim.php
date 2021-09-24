@@ -24,32 +24,33 @@
 		<div class="crumbs zerogrid">
 			<ul>
 				<li><a href="index.php">Главная</a></li>
-				<li><a href="down-jackets.php">Пуховики</a></li>
+				<li><a href="self-swim.php">Self 2022 г.</a></li>
+        <li><a href="images/selfKatalogSwim/self_katalog_swim.pdf" target="_blank">Смотреть подробно</a></li>
 			</ul>
 		</div>
 		<section class="content-box box-gallery"><!--Start Box-->
 			<div class="zerogrid">
         <div class="row">
-				  <?php for ($i = 1; $i <= 12; $i++) { ?>
-						<div class="col-1-3">
-							<div class="wrap-col ">
-								<div class="item">
-									<a class="example-image-link" href="images/downJackets/<?php echo $i.'.jpeg'; ?>" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
-										<div class="zoom-container">
-											<div class="zoom-caption">
-												<div class="caption-inner">
-													<div class="caption-inner1">
-														<i class="fa fa-eye"></i>
-													</div>
-												</div>
-											</div>
-											<img class="example-image lozad" src="images/downJackets/<?php echo $i.'.jpeg'; ?>" alt=""/>
-										</div>
-									</a>
-								</div>
-							</div>
-						</div>
-					<?php } ?>
+          <?php for ($i = 1; $i <= 68; $i++) { ?>
+  					<div class="col-1-3">
+  						<div class="wrap-col ">
+  							<div class="item">
+  								<a class="example-image-link" href="images/selfKatalogSwim/<?php echo $i.'.jpg'; ?>" data-lightbox="example-set" data-title="Кликните вправо или влево, чтобы увидеть больше фотографий.">
+  									<div class="zoom-container">
+  										<div class="zoom-caption">
+  											<div class="caption-inner">
+  												<div class="caption-inner1">
+  													<i class="fa fa-eye"></i>
+  												</div>
+  											</div>
+  										</div>
+  										<img class="example-image lozad" src="images/selfKatalogSwim/<?php echo $i.'.jpg'; ?>" alt=""/>
+  									</div>
+  								</a>
+  							</div>
+  						</div>
+  					</div>
+          <?php } ?>
 				</div>
 			</div>
 		</section>

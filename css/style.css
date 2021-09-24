@@ -346,9 +346,9 @@ a.button-2:hover{background-color: rgba(0, 0, 0, 0.9);}
 .crumbs {padding:20px 0 20px 30px;margin-bottom: 30px;border-top: 1px solid #717171;border-bottom: 1px solid #717171;}
 .crumbs ul {list-style: none;display: inline-table;}
 .crumbs ul li {display: inline;}
-.crumbs ul li a {display: block;float: left;background: #FFF200;text-align: center;padding: 7px 30px 8px 40px;position: relative;margin: 0 20px 0 0; font-size: 20px;text-decoration: none; color: #150d0d;}
+.crumbs ul li a {display: block;float: left;background: #FFF200;text-align: center;padding: 7px 30px 8px 40px;position: relative;margin: 12px 20px 0 0; font-size: 20px;text-decoration: none; color: #150d0d;}
 
-.crumbs ul li a:after {content: "";  border-top: 18px solid transparent;border-bottom: 20px solid transparent;border-left: 20px solid #FFF200;position: absolute; right: -20px; top: 0;z-index: 1;}
+.crumbs ul li a:after {content: "";  border-top: 18px solid transparent;border-bottom: 20px solid transparent;border-left: 20px solid #FFF200;position: absolute; right: -20px; top: 0;}
 .crumbs ul li a:before {content: "";  border-top: 18px solid transparent;border-bottom: 20px solid transparent;border-left: 20px solid #313B45;position: absolute; left: 0; top: 0;}
 .crumbs ul li:first-child a {border-top-left-radius: 6px; border-bottom-left-radius: 6px;}
 .crumbs ul li:first-child a:before {display: none; }

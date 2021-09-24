@@ -8,8 +8,8 @@
 					 <li class='has-sub'><a><span>купальники</span></a>
 					 	<ul>
 							 <li class='has-sub'><a href='archive.php'><span>Dea Fiori 2022 г.</span></a></li>
-							 <li class='has-sub'><a href='images/swimsuit/self_katalog_swim.pdf' target="_blank"><span>Self 2022 г.</span></a></li>
-							 <li class='has-sub'><a href='images/swimsuit/self_katalog_swim_continue.pdf' target="_blank" ><span>Self под заказ</span></a></li>
+							 <li class='has-sub'><a href='self-swim.php'><span>Self 2022 г.</span></a></li>
+							 <li class='has-sub'><a href='selfcontinue-swim.php'><span>Self под заказ</span></a></li>
 							 <li class='has-sub'><a href='sport-swim.php'><span>Спортивные купальники	</span></a></li>
 							 <li class='has-sub'><a href='images/swimsuit/self_plavki.pdf' target="_blank" ><span>Плавки</span></a></li>
 							 <li class='has-sub'><a><span>Аксессуары</span></a>
