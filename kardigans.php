@@ -24,7 +24,7 @@
 		<div class="crumbs zerogrid">
 			<ul>
 				<li><a href="index.php">Главная</a></li>
-				<li><a href="kartigans.php">Картиганы</a></li>
+				<li><a href="kardigans.php">Кардиганы</a></li>
 			</ul>
 		</div>
 		<section class="content-box box-gallery"><!--Start Box-->
