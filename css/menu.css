@@ -97,7 +97,7 @@
   font-size: 14px;
   font-weight: 400;
   text-transform: none;
-  color: #333;
+  color: #000;
   letter-spacing: 0;
   display: block;
   width: 170px;
@@ -105,7 +105,7 @@
 }
 #cssmenu ul li ul li:hover > a,
 #cssmenu ul li ul li.active > a {
-  color: #FFF200;
+  color: #888;
 }
 #cssmenu ul li ul li:hover:after,
 #cssmenu ul li ul li.active:after {
