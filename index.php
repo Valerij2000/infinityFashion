@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
  	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-	<link  href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
 </head>
 <body>
 <div class="wrap-body">
