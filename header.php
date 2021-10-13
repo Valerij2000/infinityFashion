@@ -16,7 +16,7 @@
  								<ul>
  							   	<li><a href='#'><span>Резиновые шапки</span></a></li>
  							   	<li class='last'><a href='#'><span>Парео</span></a></li>
- 							  	<li class='last'><a href='#'><span>Туники</span></a></li>
+ 							  	<li class='last'><a href='#'><span>Туники</span></a></li>		
  								</ul>
  						 	</li>
 					 	</ul>
@@ -25,6 +25,7 @@
 					  <ul>
 						 <li class='has-sub'><a href='#'><span>Куртки</span></a></li>
 						 <li class='has-sub'><a href='down-jackets.php'><span>Пуховики</span></a></li>
+						 <li class='has-sub'><a href='tunics.php'><span>Туники, платья</span></a></li>		
 					  </ul>
 				   </li>
 				   <li class='last'><a href='contact-page.php'><span>контакты</span></a></li>
