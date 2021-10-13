@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Женские пуховиков, коллекция 2021 в Самаре, большой выбор женской одежды</title>
-	<meta name="description" content="Пуховики женские на любой вкус и размер. Скидки до 30%, цены от 2 700р, скидки посетителям сайта. Пуховики высокого качества, производитель - Россия, Польша, Беларусь.">
+	<title>Туники и платья, производство Польша и Беларусь</title>
+	<meta name="description" content="Платья и туники производства Беларусь и Польши, высокого качества. Скидки на покупки через контактную форму сайта до 15%. Женские туники на любой вкус и выбор покупателя, качественные трикатажные платья подойдут для изысканной леди.">
 	<meta name="author" content="https://www.instagram.com/nikonomarin">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" href="css/zerogrid.css">
