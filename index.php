@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>m~InfinityFashion - Магазин купальников и женской одежды</title>
-	<meta name="keywords" content="Женские купальники, купить женский купальник, каталог женских купальников, купить женский купальник, купить купальник Самара, regbnm regfkmybr cfvfhf, ;tycrbt regfkmybrb">
+	<title>m~InfinityFashion - Магазин купальников и женской одежды. Раздельные женские купальники Самара. Купить женские купальники в интернете.</title>
+	<meta name="keywords" content="раздельные женские купальники самара, женские купальники, купить женский купальник, каталог женских купальников, купить женский купальник, купить купальник Самара, regbnm regfkmybr cfvfhf, ;tycrbt regfkmybrb">
 	<meta name="description" content="m~InfinityFashion - место, где вы можете приобрести женскую одежду отечественных и зарубежных производителей, польские купальники на любую фигуру и на любой вкус. Будем рады видеть вас в нашем магазине модной одежды!">
 	<meta name="author" content="https://www.instagram.com/nikonomarin">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
