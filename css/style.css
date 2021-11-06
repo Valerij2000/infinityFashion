@@ -98,18 +98,18 @@ header .logo{margin-bottom: 100px;}
 
 	/* button-to-top */
 #button-up {
-	z-index: 2;
-  display: none;
-  position: fixed;
-  right: 20px;
-	border-radius: 30px;
-  bottom: 30px;
-  color: #fff;
-  background-color: #000;
-  text-align: center;
-  font-size: 30px;
-  padding: 15px;
-  transition: .3s;
+    z-index: 2;
+    display: none;
+    position: fixed;
+    left: 20px;
+    border-radius: 7px;
+    bottom: 30px;
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+    transition: .3s;
 }
 
 #button-up:hover {
@@ -189,6 +189,9 @@ header .logo{margin-bottom: 100px;}
 .content-box .yellow_accent {color: #fff200;}
 .white_accent {color: white;}
 .black_accent {color: black;}
+.black_accent:hover {
+	color: #0fa515;
+}
 .block_description {width: 80%; display: flex; flex-direction: column; justify-content: center; align-items: center;}
 .article_number {font-weight: 900; margin-top: 0; color: white;}
 /* ---MainContent-Article--- */
