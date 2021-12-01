@@ -7,7 +7,6 @@
 	<meta name="description" content="m~InfinityFashion - место, где вы можете приобрести женскую одежду отечественных и зарубежных производителей, польские купальники на любую фигуру и на любой вкус. Будем рады видеть вас в нашем магазине модной одежды!">
 	<meta name="author" content="https://www.instagram.com/nikonomarin">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="stylesheet" href="chatbot/chatbot.css">
 	<link rel="stylesheet" href="css/zerogrid.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/style.css">
@@ -19,10 +18,7 @@
 <div class="wrap-body">
 <? require 'header.php' ?>
 <section id="container">
-<!-- Кнопка для вызова окна чат-бота -->
-<div class="chatbot__btn">
-  <div class="chatbot__tooltip d-none">Есть вопрос?</div>
-</div>
+
 	<div id="button-up">
 	  <i class="fa fa-chevron-up"></i>
 	</div>
@@ -699,12 +695,6 @@
 </section>
 <? require 'footer.php' ?>
 </div>
-<!-- FingerPrint JS -->
-<script src="chatbot/fp2.js"></script>
-<!-- ChatBot JS -->
-<script src="chatbot/chatbot.js"></script>
-<!-- Config ChatBot -->
-<script src="chatbot/chatbot.config.js"></script>
 <!-- jQuery -->
 <script src="js/jquery1111.min.js" type="text/javascript"></script>
 <!-- Fotorama from CDNJS, 19 KB -->
@@ -721,4 +711,6 @@
 <script type="text/javascript" src="js/googleAnalytics.js"></script>
 <!-- Users Scripts -->
 <script src="js/script.js"></script>
+<!-- ChatBot JS -->
+<script src="//code-ya.jivosite.com/widget/yJqi3YPLSA" async></script>
 </body></html>
